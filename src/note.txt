@@ -1,2 +1,4 @@
 npm install redux react-redux
 npm install reselect
+
+npm install @reduxjs/toolkit
